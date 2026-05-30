@@ -169,7 +169,8 @@ section{
   background:#111;
   border:1px solid #1f1f1f;
 
-  padding:30px;
+  padding:24px;
+  min-height: 120px;
   border-radius:22px;
 
   transition:.3s;
